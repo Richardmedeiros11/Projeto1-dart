@@ -1,3 +1,6 @@
+late String nome;
+
 void main() {
-  late String nome;
+  nome = 'Nome !!!';
+  print(nome);
 }
