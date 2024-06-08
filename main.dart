@@ -3,4 +3,6 @@ void main() {
   var meuNome = "Richard";
   print(meuNome);
   Object nome2 = "Medeiros";
+  var nome;
+  print(nome);
 }
