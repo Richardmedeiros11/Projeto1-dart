@@ -1,6 +1,9 @@
 late String nome;
 
+int none(int a, int b) {
+  return a + b;
+}
+
 void main() {
-  nome = 'Nome !!!';
-  print(nome);
+  print(none(2, 4));
 }
