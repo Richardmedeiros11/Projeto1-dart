@@ -1,3 +1,3 @@
-Null main() {
+void main() {
   print("Hello Word");
 }
